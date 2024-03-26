@@ -11,6 +11,7 @@
             <mj-class name="d-li" padding="0 60px 0 80px" font-family="Roboto,Arial,sans-serif" align="left" font-size="16px" line-height="20px" font-weight="700" color="#141414"/>
             <mj-class name="d-admin" padding="5px" font-family="Roboto,Arial,sans-serif" align="center" font-size="12px" line-height="14px" font-weight="400" color="#626262" />
         </mj-attributes>
+        <mj-title>Voter jeu concours Noël 2023</mj-title>
         <mj-style>
             @media(max-width:480px){
                .m-sur-titre-padding{
